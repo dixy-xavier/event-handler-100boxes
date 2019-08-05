@@ -1,0 +1,25 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Calibri;
+}
+.container {
+  display: inline-block;
+  height: 170px;
+  padding: 5px;
+  background: rgb(0, 150, 200);
+  margin: 5px;
+}
+.image {
+  width: 140px;
+  height: 140px;
+  background-size: cover;
+}
+.text {
+  width: 140px;
+  height: 20px;
+  text-align: center;
+  color: white;
+}
